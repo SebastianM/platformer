@@ -1,0 +1,4 @@
+platforms = []
+
+platforms.append(pygame.draw.rect(win, purple,)
+pygame.draw.rect(win, purple,platforms)
